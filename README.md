@@ -27,9 +27,5 @@ puppy.tester (
        there you'll find all the methods with simple comments explaining what method x is doing
 )
 ```
-altough i recommend the `puppy.tester()` method for the ones who **benefit** more from **seeing a program** that uses the library instead!
-
-
+i recommend the `puppy.tester()` method for the ones who **benefit** more from **seeing a program** that uses the library instead!
 ##
-any help with actually doing something in this readme would be helpful and appreciated lol \
-for now enjoy the dog.cfg banner i guess (i forgor the '.' in the banner)
